@@ -18,7 +18,7 @@ Github
 ## Deployment
 
 ```
-  https://master.dl0wpc1vkqvun.amplifyapp.com/
+  https://master.d3laer8jjqsxmp.amplifyapp.com/
 ```
 
 
