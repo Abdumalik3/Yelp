@@ -13,7 +13,7 @@ Welcome to my project. It is My Yelp project.
 ## Authors
 
 Github
-- [@Soburjon19](https://github.com/Soburjon19/)
+- [@Abdumalik3](https://github.com/Abdumalik3/)
 
 ## Deployment
 
@@ -42,7 +42,7 @@ I learned more about ReactJs and AWS from this video
 Clone the project
 
 ```bash
-  git clone git remote add origin https://github.com/Soburjon19/myyelp.git
+  git clone git remote add origin https://github.com/Abdumalik3/Yelp.git
 ```
 
 Go to the project directory
